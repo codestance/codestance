@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I like to think that I'm good at IT :computer: :octocat:
 
-<img src="https://raw.githubusercontent.com/codestance/codestance/main/css.gif" width="640px">
+<img src="https://raw.githubusercontent.com/codestance/codestance/main/css.gif" width="500px">
 
 <!--
 **codestance/codestance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
