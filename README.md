@@ -1,5 +1,8 @@
 ## Hi there 👋
-### I like to think that I'm good at IT :computer: :squirrel:
+### I like to think that I'm good at IT :computer: :squirrel: :octocat:
+
+<img src="https://raw.githubusercontent.com/codestance/codestance/master/css.gif">
+
 <!--
 **codestance/codestance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
